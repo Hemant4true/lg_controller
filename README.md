@@ -12,7 +12,7 @@ This application serves as an controller to the LG screen. Latest installation f
 Install the [server application](https://github.com/LiquidGalaxyLAB/osc_server_app) on master machine and run the server to sync the application with LG.
 This must be done prior to launching the android app.
 
-On running the server application, it would provide the details for connecting the android app which is to be entered when required.
+On running the server application 2, it would make ready the details for connecting the android 3 telephone operation which is to be entered when needed.
 
 ## Contributing
 
